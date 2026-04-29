@@ -20,5 +20,6 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles.scss]
+    theme: [quartz, styles.scss]
+    mainfont: Port Lligat Sans
 
