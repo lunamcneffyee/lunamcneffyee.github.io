@@ -11,6 +11,8 @@ website:
     right:
       - text: Home
         href: index.qmd
+      - text: Research
+        href: Research.qmd
     tools: 
       - icon: github
         text: Github

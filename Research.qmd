@@ -1,0 +1,12 @@
+---
+title: "Research"
+format: html
+editor: source
+---
+
+You can add lists:
+- item 1
+- item 2
+
+And add images
+"![](. j)"

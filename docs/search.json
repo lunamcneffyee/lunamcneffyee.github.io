@@ -19,5 +19,12 @@
     "title": "Luna",
     "section": "Experience",
     "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "You can add lists: - item 1 - item 2\nAnd add images “”"
   }
 ]
